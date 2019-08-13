@@ -81,10 +81,10 @@ Should be equal the the height of the header
 
 $(window).scroll(function(){
     if ($(window).scrollTop() >= 300) {
-        $('header').addClass('fixed-top purple-top');
+        $('.main-header').addClass('fixed-top purple-top');
     }
     else {
-        $('header').removeClass('fixed-top purple-top');
+        $('.main-header').removeClass('fixed-top purple-top');
     }
 });
 

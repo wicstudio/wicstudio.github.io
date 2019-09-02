@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.841" height="20" viewBox="0 0 15.841 20">
+  <g id="padnote" transform="translate(-14.6 4)">
+    <g id="Grupo_106" data-name="Grupo 106" transform="translate(14.6 -4)">
+      <path id="Trazado_421" data-name="Trazado 421" d="M26.568-4H18.775a.644.644,0,0,0-.651.651v.9H15.251a.644.644,0,0,0-.651.651V15.349a.644.644,0,0,0,.651.651H29.79a.644.644,0,0,0,.651-.651V-1.794a.644.644,0,0,0-.651-.651H27.219v-.9A.644.644,0,0,0,26.568-4ZM19.425-1.794v-.9h6.492V-.651H19.425Zm9.714.651V14.7H15.9V-1.143h2.222V0a.644.644,0,0,0,.651.651h7.794A.644.644,0,0,0,27.219,0V-1.143Z" transform="translate(-14.6 4)" fill="#752f8a"/>
+      <path id="Trazado_422" data-name="Trazado 422" d="M41.683,67H32.441a.671.671,0,0,0,0,1.341h9.242a.671.671,0,0,0,0-1.341Z" transform="translate(-28.986 -55.754)" fill="#752f8a"/>
+      <path id="Trazado_423" data-name="Trazado 423" d="M37.313,86.8H32.471a.671.671,0,1,0,0,1.341H37.3a.671.671,0,0,0,.016-1.341Z" transform="translate(-29.121 -72.418)" fill="#752f8a"/>
+      <path id="Trazado_424" data-name="Trazado 424" d="M31.8,47.771a.649.649,0,0,0,.641.671h9.242a.671.671,0,0,0,0-1.341H32.441A.66.66,0,0,0,31.8,47.771Z" transform="translate(-28.986 -39.006)" fill="#752f8a"/>
+    </g>
+  </g>
+</svg>
